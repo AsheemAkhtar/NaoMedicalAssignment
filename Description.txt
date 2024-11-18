@@ -1,0 +1,1 @@
+Its a webapp which takes Audio input and translates it in desired language in Audio in real time and also displays the text in both languages. It uses OpenAI, Whisper, and Railway for deployment
