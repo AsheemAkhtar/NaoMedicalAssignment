@@ -4,4 +4,4 @@ python-dotenv==1.0.0
 openai==0.27.8
 gTTS==2.2.4
 pydub==0.25.1
-requests==2.31.0
+requests==2.32.2
